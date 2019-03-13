@@ -8,3 +8,14 @@
     background-image: url('assets/images/penjump.jpg') !important;
     background-size: cover !important;
 }
+
+#messages {
+  height: 15em;
+  overflow: auto;
+}
+
+.input {
+  button {
+    display:none;
+  }
+}
